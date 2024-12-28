@@ -1,0 +1,2 @@
+   var defaultValue = someVariable || defaultValue;
+   
